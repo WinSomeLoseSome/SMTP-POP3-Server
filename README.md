@@ -16,4 +16,4 @@ DELE
 RSET
 As well as a basic authentication which checks if the username and password are in user.txt file
 
-Note: original repository could not be forked or cloned due to permissions I don't have. 
+Note: original repository could not be forked or cloned due to permissions I don't have, but can be found here: https://stash.ugrad.cs.ubc.ca:8443/projects/CS317_2017W1_A3/repos/a3_t5w9a_u3w9a/browse 
